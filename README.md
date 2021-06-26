@@ -24,13 +24,7 @@
 
 * 厦门
 
-下面是学习的代码
+下面是学习的编程语言，和大家分享一下
 
     var a = 1
     console.log(a)
-    
-这也是代码
-
-```javascript
-console.log('hello')
-```
